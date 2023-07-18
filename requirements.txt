@@ -1,3 +1,4 @@
 # With version numbers
-torch==2.0.0+cpu
 numpy==1.23.5
+torch==2.0.0+cpu
+torchvidion==0.15.1+cpu
