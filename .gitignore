@@ -790,6 +790,9 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
+# Lines added by  me
+venv/
+
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
