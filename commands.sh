@@ -1,3 +1,4 @@
+#!/usr/bin/env sh
 # create virtual environment
 virtualenv env
 
